@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^smartbanner\.gif smartbanner22.php [L]
